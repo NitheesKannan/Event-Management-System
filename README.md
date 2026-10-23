@@ -95,6 +95,3 @@ The main objective of this project is to develop a centralized web application t
 **Nithees Kannan S**
 
 GitHub: https://github.com/NitheesKannan
-
-
-This project is intended for educational and learning purposes. Add a license file if you wish to distribute it under specific license terms.
